@@ -6,9 +6,8 @@
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>Hope you're having a good day</h1>
+<p>Any day can be a good day if we can make it one</p>
 
 </body>
 </html>
-Cli
