@@ -110,7 +110,7 @@ footer {
         <li>HTML</li>
         <li>CSS</li>
         <li>JavaScript</li>
-        <li>...</li>
+        <li>Photoshop</li>
       </ul>
     </section>
 
@@ -119,18 +119,18 @@ footer {
       <ul>
         <li>
           <h3>Project 1</h3>
-          <p>Description of project 1.</p>
+          <p>Building Websites for varoious business and personal websites</p>
         </li>
         <li>
           <h3>Project 2</h3>
-          <p>Description of project 2.</p>
+          <p>Creation of e commerce websites</p>
         </li>
       </ul>
     </section>
 
     <section id="contact">
       <h2>Contact</h2>
-      <p>Add your contact information here.</p>
+      <p>abinaya1208@gmail.com</p>
     </section>
   </main>
 
